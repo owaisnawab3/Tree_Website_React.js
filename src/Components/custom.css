@@ -1,6 +1,5 @@
 @import "tailwindcss";
 
-@layer components{
 .swiper-pagination-bullet {
     @apply w-2 h-2 bg-green-600 opacity-100 mx-1 rounded-full;
   }
@@ -8,4 +7,3 @@
   .swiper-pagination-bullet-active {
     @apply bg-green-400;
   }
-}
